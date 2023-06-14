@@ -26,7 +26,7 @@ Minimalistic UI is used.<br>i3 configs and set to default with no external exten
 ### text-editor
 
 [neovim](https://github.com/neovim/neovim) is configured for both general and code editing.
-The neovim setup is heavily inspired by [ThePrimeagen/init.lua](github.com/ThePrimeagen/init.lua).
+The neovim setup is heavily inspired by [ThePrimeagen/init.lua](https://github.com/ThePrimeagen/init.lua).
 
 #### Plugins Installed
 
