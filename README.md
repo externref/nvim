@@ -32,7 +32,7 @@ The neovim setup is heavily inspired by [ThePrimeagen/init.lua](github.com/ThePr
 
 * **package manager**: [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
-* **[nvim-treesitter](nvim-treesitter/nvim-treesitte) for syntax highlighting.
+* **[nvim-treesitter](nvim-treesitter/nvim-treesitte)** for syntax highlighting.
 * **[neo-tree.nvim](nvim-neo-tree/neo-tree.nvim)** for sidebar file tree.
 * **[nord.nvim](https://github.com/shaunsingh/nord.nvim)** for color scheme.
 * **[telescope.nvim](https://github.com/nvim-telescope/telescope.nvim)** for file searching and grep.
